@@ -1,0 +1,22 @@
+version: 1.0.0
+history:
+  1.0.0:
+    date: '2022-09-05'
+    title: 'First version'
+    description: 'First version. Manifest created.'
+plugin:
+  -
+    name: wf/table
+    version: 1.31.1
+sys:
+  -
+    name: mercury
+    version:
+      - 2.63.0
+php:
+  version:
+    - 8.0.8
+author: null
+links: null
+description: ''
+third_part_software: null
